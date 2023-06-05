@@ -6,9 +6,12 @@
 
 Text editor that runs in the browser as a single-page application that meets PWA criteria. The application will also function offline.
 - App home
-![Alt Text](./Develop/client/dist/assets/screenshot%202.JPG)
+
+![Alt Text](./client/dist/assets/screenshot%202.JPG)
+
 - App icon on desktop
-![Alt Text](./Develop/client/dist/assets/screenshot%201.JPG)
+
+![Alt Text](./client/dist/assets/screenshot%201.JPG)
 
 ## User Story
 
